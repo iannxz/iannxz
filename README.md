@@ -8,7 +8,7 @@
 
 <div class="row" align="left">
 
-<h2> :technologist: A little about me... </h2>	<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZldmRja3c3NGg3eDM2ZnRrMWl6bHkzMmV1bzczbTR0azV2ajVuZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eLv7gJpxqiQtbNNQUe/giphy.gif" height="60" >Aprendiz Tech apaixonado por Tecnologia e Hacking.
+<h2> :technologist: A little about me... </h2> 愛 | Aprendiz Tech apaixonado por Tecnologia e Hacking.
 
 </div>
 
