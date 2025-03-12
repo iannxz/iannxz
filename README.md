@@ -58,7 +58,6 @@
   	  <li><b>CPU: </b> Ryzen 5 5600G</li>
 	    <li><b>GPU: </b> RTX 3060 12GB</li>
 	    <li><b>RAM:</b> 16 GB 3200 MHz DDR4</li>
-      <li><b>To Stay Updated:</b> Linkedin.</li>
 	</ul>	
 </details>
 
