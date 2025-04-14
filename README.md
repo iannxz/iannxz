@@ -24,6 +24,7 @@
  	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="python" width="40" height="40"/> </a>
   	<a href="https://trello.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" width="40" height="40"/> </a>
         <a href="https://ubuntu.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/> </a>
+	<a href="https://www.arduino.cc" target="_blank"> <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="40" height="40"/> </a>
  
 	
 
