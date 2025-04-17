@@ -1,5 +1,5 @@
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=9400D3&lines=console.log('Hello+World!');Prazer!,+👋;+Eu+sou+o+Iann!;" />
+<img src="https://readme-typing-svg.herokuapp.com/??font=Roboto+Slab&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=00000&lines=Prazer!+👋;+Eu+sou+o+Iann!;" />
 
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=iannxz">
 <div align="center">
