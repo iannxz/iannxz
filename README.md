@@ -1,6 +1,9 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=120&section=header"/>
+
+<div align="center">
 <img src="https://readme-typing-svg.herokuapp.com/??font=Roboto+Slab&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=006aff&lines=Prazer!+👋;+Eu+sou+o+Iann!;" />
+<div align="center">
 
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=iannxz&color=006aff">
 <div align="center">
@@ -23,6 +26,7 @@
 <a href="https://ubuntu.com" target="_blank"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="ubuntu" /> </a>
 <a href="https://www.arduino.cc" target="_blank"> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="arduino" /> </a>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=120&section=footer"/>
+
 
 
 <div class="row" align="left">
