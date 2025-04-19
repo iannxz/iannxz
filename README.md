@@ -5,12 +5,12 @@
 <div align="center" style="margin: 0 auto; width: fit-content;">
 
  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=40&duration=4000&color=006aff&center=true&vCenter=true&width=500&height=70&lines=Prazer!+👋;Eu+sou+o+Iann!;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=40&duration=4000&color=006aff&center=true&vCenter=true&width=600&height=70&lines=Prazer!+👋;Eu+sou+o+Iann!;" />
   
   <br><img alt="Visitors" src="https://komarev.com/ghpvc/?username=iannxz&color=006aff">
 <div align="center">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmswMTVpYTVqYmY2M3dkMGpjMGwyamxkaG84bnh4a2swajI3aXRnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OKalQ6YS6trCOxzoeM/giphy.gif" width="200" height="200" >
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmswMTVpYTVqYmY2M3dkMGpjMGwyamxkaG84bnh4a2swajI3aXRnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OKalQ6YS6trCOxzoeM/giphy.gif" width="250" height="250" >
 
 </div>
 
@@ -27,6 +27,8 @@
 <a href="https://trello.com" target="_blank"> <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white" alt="trello" /> </a>
 <a href="https://ubuntu.com" target="_blank"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="ubuntu" /> </a>
 <a href="https://www.arduino.cc" target="_blank"> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="arduino" /> </a>
+<a href="https://www.wireshark.org/" target="_blank"> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" alt="Wireshark" /> 
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=120&section=footer"/>
 
 
