@@ -1,5 +1,5 @@
 
-<img src="https://readme-typing-svg.herokuapp.com/??font=Roboto+Slab&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=00000&lines=Prazer!+👋;+Eu+sou+o+Iann!;" />
+<img src="https://readme-typing-svg.herokuapp.com/??font=Roboto+Slab&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=8b0000&lines=Prazer!+👋;+Eu+sou+o+Iann!;" />
 
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=iannxz">
 <div align="center">
@@ -55,7 +55,13 @@
 
 <br/>
 
-<div class="row" align="center">
+<div class="row" align="left">
+
+        
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=iannxz&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=iannxz&theme=shadow_red&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iannxz&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
