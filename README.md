@@ -1,4 +1,5 @@
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=120&section=header"/>
 <img src="https://readme-typing-svg.herokuapp.com/??font=Roboto+Slab&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=006aff&lines=Prazer!+👋;+Eu+sou+o+Iann!;" />
 
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=iannxz&color=006aff">
@@ -21,6 +22,7 @@
 <a href="https://trello.com" target="_blank"> <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white" alt="trello" /> </a>
 <a href="https://ubuntu.com" target="_blank"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="ubuntu" /> </a>
 <a href="https://www.arduino.cc" target="_blank"> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="arduino" /> </a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=120&section=footer"/>
 
 
 <div class="row" align="left">
@@ -30,28 +32,16 @@
 </div>
 <div class="row" align="left">
 
- 
-  
+<br>
+<br>
  <h2> 📫 How to reach me? </h2>
  <div class="row" align="left">
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iannarthur/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23B22131.svg?logo=Gmail&logoColor=white)](mailto:iannarthur90@gmail.com)
+<br>
 
-	
-<details>
-  <br/>
-   <summary><b>🖥️ Setup</b></summary> </h2>
-  	<ul>
-  	  <li><b>OS:</b> Windows User</li>
-  	  <li><b>CPU: </b> Ryzen 5 5600G</li>
-	    <li><b>GPU: </b> RTX 3060 12GB</li>
-	    <li><b>RAM:</b> 16 GB 3200 MHz DDR4</li>
-	</ul>	
-</details>
-
-</div>
 
 <br/>
 
@@ -59,7 +49,7 @@
 
         
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iannxz&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=iannxz&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iannxz&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iannxz&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
