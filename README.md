@@ -7,29 +7,42 @@
 <div align="center" style="margin: 0 auto; width: fit-content;">
 
 
-  
-  <br><img alt="Visitors" src="https://komarev.com/ghpvc/?username=iannxz&color=642764">
-<div align="center">
+
+<div id="toc" align="center">
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=iannxz&repo=github-visitors-badge&label=%F0%9F%91%80%20VISITORS&countColor=%23F3F8FF&labelColor=black"  />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/iannxz?style=for-the-badge&label=%F0%9F%91%A5%20Followers&labelColor=black&color=%23E26EE5" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?label=%F0%9F%93%A6%20REPOSITORIES&labelColor=black&color=%237E30E1&style=for-the-badge&query=public_repos&url=https://api.github.com/users/iannxz" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/iannxz?style=for-the-badge&label=%E2%AD%90%20Stars&labelColor=black&color=%2349108B" />
+
+
+  <ul style="list-style: none">
+    <summary>
+      <h1>
+   <samp>Hi, I'm
+          <b>Iann!</b>
+        </samp>
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+      </h1>
 
 </div>
 
 <div align=center>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-<a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white" alt="azure" /> </a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="linux" /> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="python" /> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="javascript" /> </a>
-<a href="https://trello.com" target="_blank"> <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white" alt="trello" /> </a>
-<a href="https://ubuntu.com" target="_blank"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="ubuntu" /> </a>
-<a href="https://www.arduino.cc" target="_blank"> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="arduino" /> </a>
-<a href="https://www.wireshark.org/" target="_blank"> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" alt="Wireshark" /> 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=642764&height=120&section=footer"/>
-
+<code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/></code>
+<code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/></code>
+<code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/></code>
+<code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/></code>
+<code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code"/></code>
+<code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure"/></code>
+<code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"/></code>
+<code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu"/></code>
+<code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" title="Trello"/></code>
+<code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino"/></code>
+<code><img width="30px" src="https://cdn.simpleicons.org/wireshark/1679A7" title="Wireshark"/></code>
+<code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL"/></code>
 
 
 <div class="row" align="left">
