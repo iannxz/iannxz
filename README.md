@@ -29,6 +29,8 @@
 
 </div>
 
+
+
 <div align=center>
 
 <code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/></code>
@@ -44,13 +46,15 @@
 <code><img width="30px" src="https://cdn.simpleicons.org/wireshark/1679A7" title="Wireshark"/></code>
 <code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL"/></code>
 
+
+<br>
 <div class="row" align="left">
   
-## 🙋🏻 Me . . .
+## 🙋🏻 Sobre mim
 
 Atuo como Jovem Aprendiz pelo Grupo NC cursando Desenvolvimento de Sistemas no Senai Celso Charuri. Paralelamente, estou concluindo a graduação em Análise e Desenvolvimento de Sistemas pela Anhanguera. e me dedico ao aprofundamento em cibersegurança, minha principal área de interesse.
 
-
+<br>
 
 ## 📬  Siga minha jornada no LinkedIn.:
 <a href="https://www.linkedin.com/in/iannarthur/" target="_blank">
@@ -67,19 +71,18 @@ Atuo como Jovem Aprendiz pelo Grupo NC cursando Desenvolvimento de Sistemas no S
 
 
 
-<br/>
-
+<br>
 <div class="row" align="left">
 
         
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iannxz&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=iannxz&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iannxz&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=iannxz&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=iannxz&theme=material-palenight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iannxz&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+<br> 
+<div align="center" style="margin: 0 auto; width: fit-content;">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzJ2dmN4eGNyYXZzYTlhNmtlemRpYXJubnR5MTRodWlvOWRwYno0YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MDJ9IbxxvDUQM/giphy.gif" />
 
-
-
-
-</div>
+---
