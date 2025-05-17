@@ -50,13 +50,13 @@
 <br>
 <div class="row" align="left">
   
-## 🙋🏻 Sobre mim
+## 🙋🏻 Sobre mim:
 
 Atuo como Jovem Aprendiz pelo Grupo NC cursando Desenvolvimento de Sistemas no Senai Celso Charuri. Paralelamente, estou concluindo a graduação em Análise e Desenvolvimento de Sistemas pela Anhanguera. e me dedico ao aprofundamento em cibersegurança, minha principal área de interesse.
 
 <br>
 
-## 📬  Siga minha jornada no LinkedIn.:
+## 📬  Siga minha jornada no LinkedIn:
 <a href="https://www.linkedin.com/in/iannarthur/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" alt="LinkedIn">
 </a>
