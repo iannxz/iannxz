@@ -44,23 +44,27 @@
 <code><img width="30px" src="https://cdn.simpleicons.org/wireshark/1679A7" title="Wireshark"/></code>
 <code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL"/></code>
 
-
 <div class="row" align="left">
+  
+## 🙋🏻 Me . . .
 
-<h2> :technologist: A little about me... </h2> 愛 | Aprendiz Tech apaixonado por Tecnologia e Hacking.
+Atuo como Jovem Aprendiz pelo Grupo NC cursando Desenvolvimento de Sistemas no Senai Celso Charuri. Paralelamente, estou concluindo a graduação em Análise e Desenvolvimento de Sistemas pela Anhanguera. e me dedico ao aprofundamento em cibersegurança, minha principal área de interesse.
+
+
+
+## 📬  Siga minha jornada no LinkedIn.:
+<a href="https://www.linkedin.com/in/iannarthur/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" alt="LinkedIn">
+</a>
+⠀⠀⠀⠀⠀
+</details>
 
 </div>
 <div class="row" align="left">
 
-<br>
-<br>
- <h2> 📫 How to reach me? </h2>
- <div class="row" align="left">
 
+  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iannarthur/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23B22131.svg?logo=Gmail&logoColor=white)](mailto:iannarthur90@gmail.com)
-<br>
 
 
 <br/>
@@ -72,6 +76,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=iannxz&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iannxz&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iannxz&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
 
 
 
