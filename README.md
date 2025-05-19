@@ -36,6 +36,7 @@
 <code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/></code>
 <code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/></code>
 <code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/></code>
+<code><img width="30px" src="https://img.icons8.com/ios-filled/50/password.png" title="John the Ripper"/></code>
 <code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/></code>
 <code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code"/></code>
 <code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure"/></code>
@@ -45,6 +46,11 @@
 <code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino"/></code>
 <code><img width="30px" src="https://cdn.simpleicons.org/wireshark/1679A7" title="Wireshark"/></code>
 <code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL"/></code>
+<code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook"/></code>
+<code><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" title="Oracle APEX"/></code>
+<code><img width="30px" src="https://cdn.simpleicons.org/jira/0052CC" title="Jira"/></code>
+<code><img width="30px" src="https://img.icons8.com/ios-filled/50/firewall.png" title="Firewall"/></code>
+<code><img width="30px" src="https://cdn.simpleicons.org/kalilinux/557C94" title="Kali Linux"/></code>
 
 
 <br>
