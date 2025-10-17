@@ -1,21 +1,23 @@
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/4e95fade-a458-4b8a-aa42-1a8d7afd2fb3"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=&color=5187e0&text=Welcome!%20&fontSize=20&textBg=false&fontColor=5187e1"/>
 </div>
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/06650c9e-5016-4417-8ecf-5867451dbbf6" width="40"/>
 
 <div align="center" style="margin: 0 auto; width: fit-content;">
-
+</br><br>
 
 
 <div id="toc" align="center">
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=iannxz&repo=github-visitors-badge&label=%F0%9F%91%80%20VISITORS&countColor=%23F3F8FF&labelColor=black"  />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/iannxz?style=for-the-badge&label=%F0%9F%91%A5%20Followers&labelColor=black&color=%23E26EE5" />
+  <img src="https://img.shields.io/github/followers/iannxz?style=for-the-badge&label=%F0%9F%91%A5%20Followers&labelColor=black&color=%23F3F8FF" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/dynamic/json?label=%F0%9F%93%A6%20REPOSITORIES&labelColor=black&color=%237E30E1&style=for-the-badge&query=public_repos&url=https://api.github.com/users/iannxz" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=%F0%9F%93%A6%20REPOSITORIES&labelColor=black&color=%23F3F8FF&style=for-the-badge&query=public_repos&url=https://api.github.com/users/iannxz" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/iannxz?style=for-the-badge&label=%E2%AD%90%20Stars&labelColor=black&color=%2349108B" />
+  <img src="https://img.shields.io/github/stars/iannxz?style=for-the-badge&label=%E2%AD%90%20Stars&labelColor=black&color=%23F3F8FF" />
 
 
   <ul style="list-style: none">
