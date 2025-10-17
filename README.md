@@ -1,10 +1,8 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=&color=5187e0&text=Welcome!%20&fontSize=20&textBg=false&fontColor=5187e1"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=&color=FFFFFF&text=Welcome!%20&fontSize=20&textBg=false&descAlign=60&descAlignY=60&reversal=false"/>
 </div>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/06650c9e-5016-4417-8ecf-5867451dbbf6" width="40"/>
 
 <div align="center" style="margin: 0 auto; width: fit-content;">
 </br><br>
