@@ -1,7 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=&color=4fcd3d&text=Welcome!%20&fontSize=20&textBg=false&descAlign=60&descAlignY=60&reversal=false"/>
-</div>
+
 
 
 <div align="center" style="margin: 0 auto; width: fit-content;">
