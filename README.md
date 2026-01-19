@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=iannxz&label=👀%20Views&color=0077B5&style=flat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/iannarthur/)
-[![GitHub](https://img.shields.io/github/followers/iannxz?label=Seguidores&style=flat&logo=github)]
+![GitHub](https://img.shields.io/github/followers/iannxz?label=Seguidores&style=flat&logo=github)
 
 
 <p align="left">
