@@ -4,7 +4,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/iannarthur/)
 ![GitHub](https://img.shields.io/github/followers/iannxz?label=Seguidores&style=flat&logo=github)
 
-<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #3b82f6, transparent);">
 
 <p align="left">
 Me chamo <b>Iann Arthur</b> e atuo como <b>Jovem Aprendiz no Grupo NC</b>, cursando
@@ -19,7 +18,6 @@ Meu objetivo é consolidar uma base sólida em tecnologia e segurança, alinhand
 formação acadêmica, experiência prática e aprendizado contínuo.
 </p>
 
-<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #3b82f6, transparent);">
 
 <h3>Tecnologias</h3>
 
